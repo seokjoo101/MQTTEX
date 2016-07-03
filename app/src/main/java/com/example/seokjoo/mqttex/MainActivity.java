@@ -1,5 +1,5 @@
 package com.example.seokjoo.mqttex;
-/*MQTT BROKER 이용
+/*MQTT BROKER
 Subscribe, publish 예제*/
 import android.annotation.SuppressLint;
 import android.app.Activity;
